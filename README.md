@@ -4,5 +4,7 @@ The repository is structured to facilitate easy navigation and understanding of 
 
 
 Data: Contains the raw and processed datasets used for analysis.
+
 Notebooks: Jupyter notebooks with step-by-step explanations of the data cleaning, exploration, and analysis processes.
+
 Scripts: Python scripts for data preprocessing, analysis, and visualization.
